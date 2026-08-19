@@ -36,9 +36,10 @@ International for language communities that need a keyboard for their writing sy
 
 ## Other projects
 
-**Mini-GPT** · PyTorch  
-Decoder-only transformer trained from scratch on a Shakespeare corpus — self-attention,
-positional encoding, and tokenizer implemented by hand rather than imported.
+**[Mini-GPT](https://github.com/gboltono/mini-gpt)** · PyTorch  
+Character-level decoder-only transformer (6 layers, 6 heads, 1024-token context) trained
+from scratch on Shakespeare. Built from Karpathy's nanoGPT walkthrough to learn the
+mechanics, then extended with my own context-window and training-length ablations.
 
 **[Churn Prediction](https://github.com/gboltono/churn-prediction)** · Python · XGBoost · Pandas  
 End-to-end customer-churn pipeline built for a Kaggle competition: feature engineering,
