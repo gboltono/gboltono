@@ -44,9 +44,9 @@ positional encoding, and tokenizer implemented by hand rather than imported.
 End-to-end customer-churn pipeline built for a Kaggle competition: feature engineering,
 model selection, and evaluation, runnable start to finish from a single entry point.
 
-**Bibleside** · Flutter · Dart  
-Bible reader app built with a non-profit partner through Taylor's Missions Computing
-Scholar program. I worked on the UI and reading experience.
+**[bible_side](https://github.com/Freely-Given-org/bible_side)** · Flutter · Dart  
+Offline, Material 3 Bible reader built with Freely-Given.org. I'm working on the UI and
+reading experience through Taylor's Missions Computing Scholar program.
 
 ---
 
