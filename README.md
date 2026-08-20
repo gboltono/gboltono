@@ -2,8 +2,7 @@
 
 CS senior at Taylor University — AI/ML concentration, Spanish minor.
 
-I work at the intersection of **computational linguistics and LLMs**: tools that let
-language communities do technical work without having to write code.
+I work at the intersection of **computational linguistics and LLMs**
 
 ---
 
