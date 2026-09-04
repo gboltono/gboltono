@@ -1,6 +1,6 @@
 # Grace Bolton
 
-CS senior at Taylor University — AI/ML concentration, Spanish minor.
+CS senior at Missions Computing Scholar at Taylor University — AI/ML concentration, Spanish minor.
 
 I work at the intersection of **computational linguistics and LLMs**
 
