@@ -41,9 +41,8 @@ from scratch on Shakespeare. Built from Karpathy's nanoGPT walkthrough to learn 
 mechanics, then extended with my own context-window and training-length ablations.
 
 **[Churn Prediction](https://github.com/gboltono/churn-prediction)** · Python · scikit-learn · Pandas  
-End-to-end customer-churn pipeline built for a Kaggle competition on 300K+ customers:
-cleaning, feature engineering, and a KNN vs. decision-tree comparison. KNN reached
-0.92 ROC AUC on validation. Runs start to finish from a single entry point.
+Kaggle churn pipeline on 300K+ customers: cleaning, feature engineering, and KNN vs.
+decision tree. KNN reached 0.92 ROC AUC.
 
 **[bible_side](https://github.com/Freely-Given-org/bible_side)** · Flutter · Dart  
 Offline, Material 3 Bible reader built with Freely-Given.org. I'm working on the UI and
