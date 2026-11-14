@@ -40,9 +40,10 @@ Character-level decoder-only transformer (6 layers, 6 heads, 1024-token context)
 from scratch on Shakespeare. Built from Karpathy's nanoGPT walkthrough to learn the
 mechanics, then extended with my own context-window and training-length ablations.
 
-**[Churn Prediction](https://github.com/gboltono/churn-prediction)** · Python · XGBoost · Pandas  
-End-to-end customer-churn pipeline built for a Kaggle competition: feature engineering,
-model selection, and evaluation, runnable start to finish from a single entry point.
+**[Churn Prediction](https://github.com/gboltono/churn-prediction)** · Python · scikit-learn · Pandas  
+End-to-end customer-churn pipeline built for a Kaggle competition on 300K+ customers:
+cleaning, feature engineering, and a KNN vs. decision-tree comparison. KNN reached
+0.92 ROC AUC on validation. Runs start to finish from a single entry point.
 
 **[bible_side](https://github.com/Freely-Given-org/bible_side)** · Flutter · Dart  
 Offline, Material 3 Bible reader built with Freely-Given.org. I'm working on the UI and
