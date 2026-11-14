@@ -54,7 +54,7 @@ reading experience through Taylor's Missions Computing Scholar program.
 ## Toolkit
 
 **Languages** Python · TypeScript · C++ · C · Java · JavaScript · Lisp  
-**ML/AI** PyTorch · TensorFlow · XGBoost · RAG · NLP · LLMs · Model Context Protocol · multi-agent systems  
+**ML/AI** PyTorch · TensorFlow · RAG · NLP · LLMs · Model Context Protocol · multi-agent systems  
 **Tools** React · Vite · Flutter · Pandas · Git · Vercel · Playwright · Vitest
 
 ---
